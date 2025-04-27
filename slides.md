@@ -299,3 +299,24 @@ layout: default
   * These three offices aren't discretely parceled out and separated from each other, but rather they are portrayed through a rich and complex backdrop of stories, traditions, particularly as they are developed through the period of early Judaism post-exile.
 * What this says to me is that these are not three completely separate hats that Jesus wears or roles that Jesus plays, but are simply three categories that help us to understand from multiple angles everything that God is doing on our behalf in Christ.
 -->
+
+---
+layout: quote
+---
+
+# Acts 7:54--60
+When they heard these things, they became enraged and ground their teeth at Stephen.
+But filled with the Holy Spirit, he gazed into heaven and saw the glory of God and Jesus standing at the right hand of God.
+“Look,” he said, “I see the heavens opened and the Son of Man standing at the right hand of God!”
+But they covered their ears, and with a loud shout all rushed together against him.
+Then they dragged him out of the city and began to stone him\.\.\.\.
+While they were stoning Stephen, he prayed, “Lord Jesus, receive my spirit.”
+Then he knelt down and cried out in a loud voice, “Lord, do not hold this sin against them.”
+When he had said this, he died.
+
+<!--
+* There is a tendency to Jesus's status as David's son, his role as the messiah, has much more to do with his capacity to save us than with our status and role as his followers.
+* In Luke, Jesus's anointing is portrayed as an anointing like David's: just like in retellings of the story of David's anointing in early Jewish literature, David is anointed and becomes a prophet, so to Jesus is anointed and becomes a prophet. Jesus later enters Jerusalem and that entry is accompanied by a lament like David's, weeping over his city that has rebelled against him. Jesus then dies the death of a rejected prophet.
+* In a similar way, Stephen receives the Holy Spirit along with the other disciples, just like Jesus did, and is empowered to engage in the same sort of prophetic ministry that Jesus was. We see this especially in the parallels between Stephen and Jesus at Stephen's death in Acts 7.
+* My point here is that Jesus's portrayal as the son of David, as the messiah, is not disconnected from the way that Jesus is presented as a model for us as Spirit-empowered disciples. And in fact, the Spirit-empowered that for David was the beginning of his time as God's anointed king is for us a persistent reality in our lives as followers of Jesus.
+-->
